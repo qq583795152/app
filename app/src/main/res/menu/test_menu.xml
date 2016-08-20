@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_home"
+            android:checked="true"
+            android:title="111"/>
+
+
+        <item
+            android:id="@+id/section"
+
+            android:title="分组1">
+            <menu>
+                <item
+                    android:id="@+id/drawer_favourite"
+
+                    android:title="222"/>
+
+                <item
+                    android:id="@+id/drawer_downloaded"
+
+                    android:title="333"/>
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/section2"
+            android:title="分组2">
+            <menu>
+                <item
+                    android:id="@+id/drawer_more"
+                    android:title="555"/>
+
+                <item
+                    android:id="@+id/drawer_settings"
+
+                    android:title="666"/>
+            </menu>
+        </item>
+
+
+    </group>
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">iCalanderDemo</string>
+    <string name="action_add">Add</string>
+    <string name="date">jan 2016</string>
+    <string name="events">Events</string>
+    <string name="holiday">Holiday</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="setting">Setting</string>
+    <string name="sunday">SUN</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+</resources>
